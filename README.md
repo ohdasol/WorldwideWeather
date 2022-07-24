@@ -60,6 +60,15 @@
         filter: drop-shadow(12px 12px 12px #553145);
       }
       ```
+* **상세 화면**
+
+![캡처6](https://user-images.githubusercontent.com/97426772/180654746-0a983921-55d9-42a7-9680-54b7409f7814.PNG)  
+![캡처7](https://user-images.githubusercontent.com/97426772/180654747-9fa9dd00-2e9c-4fe8-95f6-15d9408d78c2.PNG)  
+![캡처9](https://user-images.githubusercontent.com/97426772/180654749-635eee0e-86a3-48f5-9e21-791a25167fce.PNG)  
+![캡처10](https://user-images.githubusercontent.com/97426772/180654750-d15301c2-fbf9-473a-bf70-baebbd25726d.PNG)  
+![캡처11](https://user-images.githubusercontent.com/97426772/180654751-ee29db6d-6992-4ec2-8120-f889f7723156.PNG)  
+![캡처12](https://user-images.githubusercontent.com/97426772/180654753-513d1338-856b-4b04-a710-94b00c9bb50e.PNG)  
+
 * **Issue**
   - querSelector와 getElementsByClassName
   - 팝업창 정보 구현시 발생
